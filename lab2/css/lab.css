@@ -4,6 +4,48 @@
 .minor-section {
     padding: 10px;
     margin-bottom: 10px;
-    border: solid 1px #888;
-    background-color: #DDD8C4;
+    border: solid 5px #63e66e;
+    background-color: #e649d1;
+  }
+
+p {
+  text-align: center;
+  font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  color:white;
+  font-size: 18px;
+  }
+
+h1 {
+  text-align: center;
+  font-family:Verdana, Geneva, Tahoma, sans-serif;
+  color: #6dabf7;
+  font-size:40px
+  }
+
+h2 {
+  text-align: center;
+  font-family:Verdana, Geneva, Tahoma, sans-serif;
+  color: #6dabf7;
+  -webkit-text-stroke-width: 1px;
+  -webkit-text-stroke-color:white;
+  }
+
+.cloud-pic {
+  margin: 10px;
+  max-width: 320px;
+  }
+
+.butterfly-pic {
+  margin: 10px;
+  max-width: 320px;
+  }
+
+.flower-pic {
+  margin: 10px;
+  max-width: 320px;
+  }
+
+.nighttime-pic {
+  margin: 10px;
+  max-width: 320px;
   }
