@@ -2,8 +2,7 @@
 // Author: Juilet & Raquel
 // Date:10/23/23
 
-// Constants
-
+//Outline:
 //User input
 //  Rock or Paper or Scissors
 //Computer chooses 
@@ -16,14 +15,14 @@
 //    Paper > Rock
 //    Scissors > Paper
 //  Lose:
-//    Rock != Rock
-//    Paper != Paper
-//    Scissors != Scissors
+//    any other combintion
 //Add points
 //Best of 3 games
 //  end after 3 games
+//  if tie keep going till winners
 //Output winner
 
+// Constants
 
 // Functions
 
