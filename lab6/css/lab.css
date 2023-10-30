@@ -4,6 +4,45 @@
 .minor-section {
     padding: 10px;
     margin-bottom: 10px;
-    border: solid 1px #888;
-    background-color: #DDD8C4;
+    border: solid 3px white;
+    background-color: #81cad6;
+  }
+
+  #content {
+    margin: 10px;
+    padding: 10px;
+    background-color: #81cad6;
+  }
+  
+  body {
+    background-color: #edcd44;
+  }
+
+  h1 {
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: #dc3e26;
+  }
+  
+  h2 {
+    font-family:'Courier New', Courier, monospace;
+    color: #dc7c15;
+  
+  }
+
+  h3 {
+    font-family:'Courier New', Courier, monospace;
+    color: #edcd44;
+  }
+  
+  p {
+  font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  font-size: 19.5px;
+  color: whitesmoke
+  
+  }
+
+  #honda-pic-lab6 {
+    margin: 10px;
+    max-width: 500px;
+  
   }

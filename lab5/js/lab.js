@@ -26,6 +26,15 @@ document.writeln("Age: " + age + " years<br>" );
 
 
 
+
+
+
+
+
+
+
+
+
 // Constants
 
 // Functions
