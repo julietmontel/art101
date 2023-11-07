@@ -1,0 +1,32 @@
+.minor-section {
+    padding: 10px;
+    margin-bottom: 10px;
+    border: solid 1px #888;
+    background-color: white;
+  }
+  
+#content {
+    margin: 10px;
+    padding: 10px;
+    border: solid 1px #03ecfc;
+    background-color: red;
+  }
+
+body {
+    background-color: whitesmoke;
+  }
+
+h1 {
+  font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  color: #03ecfc;
+  }
+      
+h2 {
+  font-family:'Courier New', Courier, monospace;
+  color: #03ecfc;
+  }
+  
+p {
+  font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  color: red;
+  }
