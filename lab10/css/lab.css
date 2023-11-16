@@ -1,0 +1,52 @@
+.minor-section {
+    padding: 10px;
+    margin-bottom: 10px;
+    border: solid 1px blueviolet;
+    background-color: greenyellow;
+}
+  
+#content {
+    margin: 10px;
+    padding: 10px;
+    border: solid 1px blueviolet;
+    background-color: black;
+}
+
+body {
+    background-color: black;
+}
+
+h1 {
+  color: greenyellow;
+  font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+h2 {
+  color: blueviolet;
+  font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.text p {
+  display: inline-block;
+  max-width: 60%;
+  margin: 3px;
+  padding: 5px 10px;
+  border-radius: 15px;
+  background-color: darkgray;
+  color: white;
+  font-family: sans-serif;
+}
+
+.text:nth-child(odd) {
+  text-align: right;
+}
+
+.text:nth-child(odd) p {
+  color: white;
+  background-color: #1F8AFF;
+}
+
+.text:nth-child(even) {
+  text-align: left;
+}
+

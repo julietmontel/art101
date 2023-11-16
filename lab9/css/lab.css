@@ -13,47 +13,4 @@
   }
 
 body {
-    background-color: whitesmoke;
-  }
-
-
-h1 {
-  font-family:'Times New Roman', Times, serif;
-  color:rgb(166, 98, 230);
-}
-
-h2 {
-  font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-  color:rgb(81, 209, 109);
-}
-
-p {
-  font-family: Georgia, 'Times New Roman', Times, serif;
-  color: rgb(247, 166, 17)
-}
-
-.special {
-  background-color: rgb(234, 45, 190);
-  border: groove 20px paleturquoise;
-  color: rgb(78, 42, 238);
-  font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-  font-weight: bolder;
-  }
-
-.special-two {
-  background-color: blue;
-  border: dashed 10px orange;
-  color: pink;
-  font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-  font-size: larger;
-  font-weight: bold;
-  }
-
-.special-three {
-  background-color: lightgreen;
-  border: double 50px rgb(228, 101, 123);
-  color: lightcoral;
-  font-size: x-large;
-  font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-  font-weight: bold;
-  }
+    background-color: w
