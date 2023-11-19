@@ -1,0 +1,34 @@
+.minor-section {
+    padding: 10px;
+    margin-bottom: 10px;
+    border: solid 1px #f69328;
+    background-color: #5af0e4;
+  }
+
+
+#content {
+    margin: 10px;
+    padding: 10px;
+    border: solid 1px #2de3e7;
+    background-color: #f69328;
+  }
+
+body {
+    background-color: whitesmoke;
+  }
+
+h1 {
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: #5af0e4
+}
+
+h2 {
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    color: #f69328
+}
+
+p {
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color:white;
+    font-size: 20px;
+}
