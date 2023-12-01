@@ -50,6 +50,8 @@ function fizzBuzzBoom(maxNum, factorObj) {
 
 }
 
+
+//DEBUGGED ** added an event listener to the actual 'Run' button
 document.getElementById("submit").addEventListener("click", function() {
     var maxNum = document.getElementById("max").value;
     var factorObj = getFactorObj();
