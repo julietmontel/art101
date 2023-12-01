@@ -50,3 +50,8 @@ function fizzBuzzBoom(maxNum, factorObj) {
 
 }
 
+document.getElementById("submit").addEventListener("click", function() {
+    var maxNum = document.getElementById("max").value;
+    var factorObj = getFactorObj();
+    fizzBuzzBoom(maxNum, factorObj);
+});
